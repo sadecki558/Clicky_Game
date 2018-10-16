@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Jessica",
+    "image": "http://static.tvtropes.org/pmwiki/pub/images/rickandmorty.png"
+  },
+  {
+    "id": 2,
+    "name": "Rick",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Rick_and_Morty_characters_-_Rick_Sanchez.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Morty",
+    "image": "http://vignette4.wikia.nocookie.net/rickandmorty/images/4/41/Morty_Smith.jpg/revision/latest?cb=20170217193441"
+  },
+  {
+    "id": 4,
+    "name": "Beth",
+    "image": "https://vignette4.wikia.nocookie.net/rickandmorty/images/5/58/Beth_Smith.png/revision/latest?cb=20151204220729"
+  },
+  {
+    "id": 5,
+    "name": "Jerry",
+    "image": "http://vignette3.wikia.nocookie.net/rickandmorty/images/5/5d/Jerry_S01E11_Sad.JPG/revision/latest?cb=20140501090439"
+  },
+  {
+    "id": 6,
+    "name": "Pickle Rick",
+    "image": "https://pre00.deviantart.net/ae2b/th/pre/i/2017/226/a/8/pickle_rick_by_halhefnerart-dbk0y9d.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mr Goldenfold",
+    "image": "http://vignette4.wikia.nocookie.net/rickandmorty/images/7/72/MrGoldenfold.png/revision/latest?cb=20131230015346"
+  },
+  {
+    "id": 8,
+    "name": "Principal Vagina",
+    "image": "https://www.toonzone.net/fansites/blogicon/54262/master/1458938937.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Summer",
+    "image": "https://pm1.narvii.com/5894/e71d4432bf2aa7b770b2662aa1fd8460b5f9ff3b_hq.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Scary Terry",
+    "image": "https://memegenerator.net/img/images/600x600/14459616/scary-terry-from-rick-and-morty.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Mr. PoopyButtHole",
+    "image": "https://img00.deviantart.net/b65f/i/2015/299/4/6/mr__poopy_butthole_by_chlorofax-d9ehxrf.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Bird Person",
+    "image": "https://s-media-cache-ak0.pinimg.com/originals/50/7f/53/507f53aa943cc12869c41795290f9f7a.png"
+  }
+
+]

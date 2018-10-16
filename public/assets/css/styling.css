@@ -1,0 +1,44 @@
+
+body { padding-top: 70px; }
+
+#titleFont {
+    font-family: 'Joti One', cursive;
+    font-size: 50px;
+}
+
+.otherFonts {
+    font-size: 30px;
+}
+
+#charsLogo{
+    height: 100px;
+    width: 350px;
+}
+
+#logoDiv {
+    background-image: url("https://wallpapertag.com/wallpaper/full/8/6/2/453802-top-dark-space-wallpaper-1920x1080-high-resolution.jpg");
+    border-bottom: 3px solid #00BFFF;
+    height: 200px;
+}
+
+.bgColor {
+    background-color: #00BFFF;
+    height: 75px;
+}
+
+#appBody {
+    min-height: 65vh;
+}
+
+#footer {
+    border-top: 4px solid #000000;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+}
+
+#reactLogo {
+    height: 30px;
+    width: 100px;
+}
+
+
